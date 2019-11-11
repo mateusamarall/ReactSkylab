@@ -1,5 +1,7 @@
 Aplicação criada no curso ReactJS da rocketseat
 
+![Screenshot_2019-11-11 React App](https://user-images.githubusercontent.com/37390930/68622762-b1630300-04b1-11ea-9c0d-c4fb73b223de.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
